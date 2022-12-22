@@ -7,6 +7,7 @@ public class CartPage {
     //total
     // promo
 
-
+    // deals
+    // new chages
 
 }
